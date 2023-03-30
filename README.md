@@ -1,4 +1,5 @@
 # PriceView
 
-https://user-images.githubusercontent.com/29862757/228880597-cd9315e4-a2d7-4025-9dd7-eeef38087439.mov
+![Screen Recording 2023-03-30 at 18 50 17](https://user-images.githubusercontent.com/29862757/228901265-8f7dc3ff-b745-4bdb-b60a-9963fe1518b1.gif)
+
 
